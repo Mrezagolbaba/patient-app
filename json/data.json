@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "IdCard": "002482G",
+    "Gender": "Male",
+    "Name": "John",
+    "Surname": "Smith",
+    "DateOfBirth": "1982-02-15 00:00:00",
+    "Address": "5 St Philip Street",
+    "Postcode": " 1456",
+    "ContactNumber1": "21334455",
+    "ContactNumber2": "79794545",
+    "NextOfKin": [
+      {
+        "IdCard": "002543G",
+        "Name": "Alvin",
+        "Surname": "Smith",
+        "ContactNumber1": "21334123",
+        "ContactNumber2": "79534145"
+      },
+      {
+        "IdCard": "002543K",
+        "Name": "Andy",
+        "Surname": "Smith",
+        "ContactNumber1": "21334455",
+        "ContactNumber2": "79794545"
+      }
+    ],
+    "Medical": {
+      "Conditions": [
+        {
+          "Name": "Allergic cough",
+          "Notes": "Cough details"
+        }
+      ],
+      "Alergies": [
+        {
+          "Name": "Gluten",
+          "Notes": "Gluten details"
+        }
+      ],
+      "Medication": [
+        {
+          "Name": "Amlodipine 5mg Tab",
+          "Notes": "",
+          "StartDate": "2014-06-04 00:00:00",
+          "EndDate": null
+        },
+        {
+          "Name": "Diazepam",
+          "Notes": "",
+          "StartDate": "2019-06-04 00:00:00",
+          "EndDate": "2019-08-04 00:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 2,
+    "IdCard": "004332H",
+    "Gender": "Male",
+    "Name": "Paul",
+    "Surname": "Limea",
+    "DateOfBirth": "1985-03-16 00:00:00",
+    "Address": "Angel  St Camille ",
+    "Postcode": " 2444",
+    "ContactNumber1": "04321514456",
+    "ContactNumber2": "09321514456",
+    "NextOfKin": [
+      {
+        "Id": 1,
+        "IdCard": "001345T",
+        "Name": "Fred",
+        "Surname": "Limea",
+        "ContactNumber1": "21295042",
+        "ContactNumber2": "79285390"
+      },
+      {
+        "Id": 2,
+        "IdCard": "007628G",
+        "Name": "Jane",
+        "Surname": "Limea",
+        "ContactNumber1": "21790316",
+        "ContactNumber2": "90390645"
+      }
+    ],
+    "Medical": {
+      "Conditions": [
+        {
+          "Name": "Allergic cough",
+          "Notes": "Cough details"
+        }
+      ],
+      "Alergies": [
+        {
+          "Name": "Gluten",
+          "Notes": "Gluten details"
+        },
+        {
+          "Name": "Dairy",
+          "Notes": "Dairy products details"
+        }
+      ],
+      "Medication": [
+        {
+          "Name": "Amlodipine 5mg Tab",
+          "Notes": "",
+          "StartDate": "2014-06-04 00:00:00",
+          "EndDate": null
+        }
+      ]
+    }
+  },
+  {
+    "Id": 3,
+    "IdCard": "004332G",
+    "Gender": "Male",
+    "Name": "Peter",
+    "Surname": "Micale",
+    "DateOfBirth": "1990-05-21 00:00:00",
+    "Address": "5 St. Mark Street",
+    "Postcode": " 3333",
+    "ContactNumber1": "21263464",
+    "ContactNumber2": "91477889",
+    "NextOfKin": [
+      {
+        "Id": 1,
+        "IdCard": "001345G",
+        "Name": "Tony",
+        "Surname": "Micale",
+        "ContactNumber1": "21517234",
+        "ContactNumber2": "79197451"
+      }
+    ],
+    "Medical": {
+      "Conditions": [
+        {
+          "Name": "Allergic dermatitis",
+          "Notes": "Allergic dermatitis details"
+        }
+      ],
+      "Alergies": [
+        {
+          "Name": "Erythromycin",
+          "Notes": ""
+        }
+      ],
+      "Medication": [
+        {
+          "Name": "Amlodipine 5mg Tab",
+          "Notes": "",
+          "StartDate": "2019-06-04 00:00:00",
+          "EndDate": "2020-06-04 00:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "Id": 4,
+    "IdCard": "006780G",
+    "Gender": "Female",
+    "Name": "Mary",
+    "Surname": "Bore",
+    "DateOfBirth": "1950-01-15 00:00:00",
+    "Address": "55 St. George Street",
+    "Postcode": " 4141",
+    "ContactNumber1": "21555789",
+    "ContactNumber2": "80777889",
+    "NextOfKin": [
+      {
+        "Id": 1,
+        "IdCard": "007496G",
+        "Name": "Philip",
+        "Surname": "Bore",
+        "ContactNumber1": "21555789",
+        "ContactNumber2": "79547234"
+      }
+    ],
+    "Medical": {
+      "Conditions": [
+        {
+          "Name": "Conjucntivits",
+          "Notes": ""
+        }
+      ],
+      "Alergies": [
+        {
+          "Name": "Sulphonamides",
+          "Notes": "Sulphonamides details"
+        }
+      ],
+      "Medication": [
+        {
+          "Name": "Amlodipine 5mg Tab",
+          "Notes": "",
+          "StartDate": "2019-06-04 00:00:00",
+          "EndDate": "2020-06-04 00:00:00"
+        }
+      ]
+    }
+  }
+]
